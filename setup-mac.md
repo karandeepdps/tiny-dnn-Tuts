@@ -19,6 +19,8 @@
 10. Cd terminal to this directory and type g++ -std=c++11 train.cpp -DCNN_USE_OMP=0 -I ~/Desktop/tiny-dnn-master/  
 11. In terminal type ./a.out .  
 12. Now training will start.
+13. Type g++ -std=c++11  -DCNN_USE_OMP=0 -I ~/Desktop/tiny-dnn-master/ test.cpp -DDNN_USE_IMAGE_API  
+14. In terminal type ./a.out [link to image file]
 
 
 
