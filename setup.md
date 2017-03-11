@@ -3,7 +3,7 @@
 **tiny-dnn** is a C++11 implementation of deep learning. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
 
 
-<p align="center">**_How to Install/Build TinyDnn On Mac_**</p>
+<p align="center"><b>How to Install/Build TinyDnn On Mac</b></p>
 **Step:1** Install Cmake from https://cmake.org/install/  
 **Step:2** Open Terminal (Press CMD+SpaceBar Enter Terminal)    
 **Step:3**   
