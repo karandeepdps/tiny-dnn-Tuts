@@ -11,6 +11,6 @@
          3. wget https://github.com/tiny-dnn/tiny-dnn/archive/master.zip
          4. unzip master.zip
          5. cd tiny-dnn-master/
-         4. cmake .
-         4. cd tiny-ddn
+         6. cmake .
+         7. 
 
