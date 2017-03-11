@@ -6,7 +6,8 @@
 <p align="center"><b>How to Install/Build TinyDnn On Mac</b></p>
 **Step:1** Install Cmake from https://cmake.org/install/  
 **Step:2** Open Terminal (Press CMD+SpaceBar Enter Terminal)    
-**Step:3**   
+**Step:3** 
+```cpp
 >1. Type cd ~  
 2. cd Desktop  
 3. wget https://github.com/tiny-dnn/tiny-dnn/archive/master.zip  
@@ -20,7 +21,8 @@
 11. In terminal type ./a.out .  
 12. Now training will start.
 13. Type g++ -std=c++11  -DCNN_USE_OMP=0 -I ~/Desktop/tiny-dnn-master/ test.cpp -DDNN_USE_IMAGE_API  
-14. In terminal type ./a.out [link to image file]
+14. In terminal type ./a.out [4.bmp] (https://github.com/tiny-dnn/tiny-dnn/wiki/4.bmp)
+```
 
 
 
