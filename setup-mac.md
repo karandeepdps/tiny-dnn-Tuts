@@ -8,7 +8,7 @@
 **Step:2** Open Terminal (Press CMD+SpaceBar Enter Terminal)    
 **Step:3** 
 ```cpp
->1. Type cd ~  
+1. Type cd ~  
 2. cd Desktop  
 3. wget https://github.com/tiny-dnn/tiny-dnn/archive/master.zip  
 4. unzip master.zip  
@@ -22,7 +22,9 @@
 12. Now training will start.
 13. Type g++ -std=c++11  -DCNN_USE_OMP=0 -I ~/Desktop/tiny-dnn-master/ test.cpp -DDNN_USE_IMAGE_API  
 14. In terminal type ./a.out [4.bmp] (https://github.com/tiny-dnn/tiny-dnn/wiki/4.bmp)
-```
+```  
+Now you have succesfully installed tinydnn and also trained a mnist model.
+<p align="center"><b>Sky is the limit.Try adding more layers and improve the accuracy</b><p align="center">
 
 
 
